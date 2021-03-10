@@ -1,0 +1,13 @@
+C:\Users\alexandr.klintsov.IMIGLOBAL\source\repos\KillProcess\KillProcess\bin\Debug\netcoreapp3.1\KillProcess.exe
+C:\Users\alexandr.klintsov.IMIGLOBAL\source\repos\KillProcess\KillProcess\bin\Debug\netcoreapp3.1\KillProcess.deps.json
+C:\Users\alexandr.klintsov.IMIGLOBAL\source\repos\KillProcess\KillProcess\bin\Debug\netcoreapp3.1\KillProcess.runtimeconfig.json
+C:\Users\alexandr.klintsov.IMIGLOBAL\source\repos\KillProcess\KillProcess\bin\Debug\netcoreapp3.1\KillProcess.runtimeconfig.dev.json
+C:\Users\alexandr.klintsov.IMIGLOBAL\source\repos\KillProcess\KillProcess\bin\Debug\netcoreapp3.1\KillProcess.dll
+C:\Users\alexandr.klintsov.IMIGLOBAL\source\repos\KillProcess\KillProcess\bin\Debug\netcoreapp3.1\KillProcess.pdb
+C:\Users\alexandr.klintsov.IMIGLOBAL\source\repos\KillProcess\KillProcess\obj\Debug\netcoreapp3.1\KillProcess.csprojAssemblyReference.cache
+C:\Users\alexandr.klintsov.IMIGLOBAL\source\repos\KillProcess\KillProcess\obj\Debug\netcoreapp3.1\KillProcess.AssemblyInfoInputs.cache
+C:\Users\alexandr.klintsov.IMIGLOBAL\source\repos\KillProcess\KillProcess\obj\Debug\netcoreapp3.1\KillProcess.AssemblyInfo.cs
+C:\Users\alexandr.klintsov.IMIGLOBAL\source\repos\KillProcess\KillProcess\obj\Debug\netcoreapp3.1\KillProcess.csproj.CoreCompileInputs.cache
+C:\Users\alexandr.klintsov.IMIGLOBAL\source\repos\KillProcess\KillProcess\obj\Debug\netcoreapp3.1\KillProcess.dll
+C:\Users\alexandr.klintsov.IMIGLOBAL\source\repos\KillProcess\KillProcess\obj\Debug\netcoreapp3.1\KillProcess.pdb
+C:\Users\alexandr.klintsov.IMIGLOBAL\source\repos\KillProcess\KillProcess\obj\Debug\netcoreapp3.1\KillProcess.genruntimeconfig.cache
